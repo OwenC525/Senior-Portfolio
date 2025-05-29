@@ -21,7 +21,7 @@ const portfolioData = {
         "title": "E-commerce Website",
         "description": "A fully responsive online store...",
         "image": "path/to/project1.jpg",
-        "demo": "#",
+        "demo": "<a href='https://owenc525.github.io/Client-Website/'></a>",
         "code": "#"
       }
     ],
