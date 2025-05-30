@@ -22,24 +22,24 @@ createApp({
             },
             projects: [
                 {
-                    title: "E-commerce Website",
-                    description: "A fully responsive online store with cart functionality",
+                    title: "Client Website",
+                    description: "A personal portfolio website for a nursing student",
                     image: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-                    demo: "#",
-                    code: "#"
+                    learn: "https://owenc525.github.io/Client-Website/",
+                    code: "https://github.com/OwenC525/Client-Website"
                 },
                 {
-                    title: "Portfolio Template",
-                    description: "Custom portfolio design for creative professionals",
-                    image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-                    demo: "#",
-                    code: "#"
+                    title: "Video Editing Website",
+                    description: "A client website for the Video Editing Class",
+                    image: "images/werntzschoolpic.jpg",
+                    learn: "https://aaronm524.github.io/Mr-Werntz-s-Website/",
+                    code: "https://github.com/AaronM524/Mr-Werntz-s-Website/tree/main"
                 },
                 {
                     title: "Mobile App UI",
                     description: "Fitness tracking application interface design",
                     image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-                    demo: "#",
+                    learn: "#",
                     code: "#"
                 }
             ],
@@ -49,10 +49,7 @@ createApp({
                 { icon: "fas fa-map-marker-alt", title: "Location", value: "Vancouver, Canada" }
             ],
             socialLinks: [
-                { icon: "fab fa-github", link: "#" },
-                { icon: "fab fa-linkedin-in", link: "#" },
-                { icon: "fab fa-dribbble", link: "#" },
-                { icon: "fab fa-behance", link: "#" }
+                { icon: "fab fa-github", link: "https://github.com/OwenC525" },
             ],
             form: {
                 name: "",
