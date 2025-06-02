@@ -36,17 +36,38 @@ createApp({
                     code: "https://github.com/AaronM524/Mr-Werntz-s-Website/tree/main"
                 },
                 {
-                    title: "Mobile App UI",
+                    title: "NJIT Movie Site",
                     description: "Fitness tracking application interface design",
-                    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-                    learn: "#",
-                    code: "#"
-                }
+                    image: "images/topmovies.png",
+                    learn: "https://owenc525.github.io/NJIT-MovieSite-Project/",
+                    code: "https://github.com/OwenC525/NJIT-MovieSite-Project"
+                },
+                {
+                    title: "NJIT Slideshow Project",
+                    description: "A personal portfolio website for a nursing student",
+                    image: "images/slideshow.png",
+                    learn: "https://owenc525.github.io/NJIT-Slideshow-Project/",
+                    code: "https://github.com/OwenC525/NJIT-Slideshow-Project"
+                },
+                {
+                    title: "College Recruitment Site",
+                    description: "A client website for the Video Editing Class",
+                    image: "images/RU-logo1.png",
+                    learn: "https://owenc525.github.io/College-Recruitment-Site/",
+                    code: "https://github.com/OwenC525/College-Recruitment-Site"
+                },
+                {
+                    title: "NJIT Movie Site",
+                    description: "Fitness tracking application interface design",
+                    image: "images/topmovies.png",
+                    learn: "https://owenc525.github.io/NJIT-MovieSite-Project/",
+                    code: "https://github.com/OwenC525/NJIT-MovieSite-Project"
+                },
             ],
             contactInfo: [
-                { icon: "fas fa-envelope", title: "Email", value: "hello@alexischiu.com" },
+                { icon: "fas fa-envelope", title: "Email", value: "525ochiu@frhsd.com" },
                 { icon: "fas fa-phone", title: "Phone", value: "+1 (555) 123-4567" },
-                { icon: "fas fa-map-marker-alt", title: "Location", value: "Vancouver, Canada" }
+                { icon: "fas fa-map-marker-alt", title: "Location", value: "New Jersey, United States" }
             ],
             socialLinks: [
                 { icon: "fab fa-github", link: "https://github.com/OwenC525" },
