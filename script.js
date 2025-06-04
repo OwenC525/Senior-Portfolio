@@ -12,8 +12,8 @@ createApp({
                 { text: 'Contact', link: '#contact' }
             ],
             aboutData: {
-                bio: "I'm a passionate web designer and developer with 5+ years of experience creating beautiful, functional websites. I specialize in <strong>responsive design</strong>, <strong>user experience</strong>, and <strong>front-end development</strong>.",
-                image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+                bio: "I'm a passionate web designer and developer with 3 years of experience creating beautiful, functional websites. I specialize in <strong>responsive design</strong>, <strong>user experience</strong>, and <strong>front-end development</strong>.",
+                image: "images/selfpic.jpg",
                 skills: {
                     'Design': ['UI/UX Design', 'Wireframing', 'Prototyping', 'Adobe Creative Suite'],
                     'Development': ['HTML/CSS', 'JavaScript', 'Vue.js', 'Responsive Design'],
